@@ -1,2 +1,5 @@
 # RadiantSkin
 Skincare Products Web App(React js, Mongo db)
+
+# About
+Radiant Skin is an ecommerce website that committed to offering a well chosen variety of premium skincare goods. Since navigating a congested market can be difficult, the platform provides a more straightforward method. Radiant Skin makes it simple for customers to locate and buy necessities for their skin care routine according to the skin types and concerns of the customer, it redefines the skincare shopping experience with a perfect fusion of beauty and technology. Our carefully curated platform seamlessly integrates advanced features, ensuring a streamlined journey for both administrators and customers. From intuitive product search and user-friendly cart management to effortless checkout and robust account tools, Radiant Skin offers a uniquely immersive and efficient online skincare destination. Beyond conventional ecommerce, our commitment to customer satisfaction is evident in every detail, making Radiant Skin a digital market where beauty meets innovation for skincare enthusiasts.
